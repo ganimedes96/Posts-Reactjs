@@ -28,6 +28,6 @@ O projeto foi desenvolvido para fixar os fundamentos do React.
 Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navegador.
  
 <div align='center'>
-   Feito com ♥ Por Hudson Felix <a href='https://www.linkedin.com/in/hudson-felix-577305215/'>LinkeDin</a>)
+   Feito com ♥ Por Hudson Felix <a href='https://www.linkedin.com/in/hudson-felix-577305215/'>LinkeDin</a>
 </div>
 
