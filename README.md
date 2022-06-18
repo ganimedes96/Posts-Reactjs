@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Post-React" title="podcastr" />
+  Post-React
 </h1>
 
 https://user-images.githubusercontent.com/59948274/174415016-6bd5c4f8-49ad-4fc9-8d79-95a578ae90ea.mp4
